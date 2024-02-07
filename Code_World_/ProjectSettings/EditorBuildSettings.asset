@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 918424136fb117347adceaaa37004492
+  - enabled: 1
+    path: Assets/Scenes/MainMap.unity
+    guid: 83b35b0079cc8274e975d9c175a72274
+  - enabled: 1
+    path: Assets/Scenes/Dump.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/VariableNameRulesLevel.unity
+    guid: df2db2786f5e8cc4b9a9129d4cf7810d
+  - enabled: 1
+    path: Assets/Scenes/FoodPlace.unity
+    guid: f4c64a780c8e31c4b9a401d97fefd565
+  m_configObjects: {}

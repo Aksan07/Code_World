@@ -1,0 +1,4 @@
+repository "Code_World@simple_dude@cloud"
+  path "/"
+    br "/main"
+    co "/main"
