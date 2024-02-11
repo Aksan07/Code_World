@@ -20,4 +20,19 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/FoodPlace.unity
     guid: f4c64a780c8e31c4b9a401d97fefd565
+  - enabled: 1
+    path: Assets/Scenes/map.unity
+    guid: 41d682e1763e5354cb7c76cd34d86b8b
+  - enabled: 1
+    path: Assets/Scenes/School.unity
+    guid: bc1fb1167c712e741a1a6e7e0e881dac
+  - enabled: 1
+    path: Assets/Scenes/Maze.unity
+    guid: 0d13db7e29e98ce4385e515d3819a17b
+  - enabled: 1
+    path: Assets/Scenes/playground.unity
+    guid: c70a4140d34212047a664d636e3ad072
+  - enabled: 1
+    path: Assets/Scenes/markets.unity
+    guid: e77182c797548124690e582eb1b2dd67
   m_configObjects: {}
